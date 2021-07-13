@@ -1,6 +1,8 @@
 # icnnsoft
 
-A new Flutter application.
+A Flutter Cross Platform Webview application.
+
+![image](screenshot.jpeg)
 
 ## Getting Started
 
