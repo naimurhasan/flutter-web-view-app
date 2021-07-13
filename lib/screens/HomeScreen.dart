@@ -87,10 +87,10 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                 ),
               ),
-            if (isloading)
-              SpinKitThreeBounce(
-                color: kColors.primaryColor,
-              ),
+            // if (isloading)
+            //   SpinKitThreeBounce(
+            //     color: kColors.primaryColor,
+            //   ),
           ]),
         ),
       ),
